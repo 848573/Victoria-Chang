@@ -1,0 +1,53 @@
+body {
+
+	margin: 0px
+	font-family: 'Roboto', sans-serif;
+}
+
+.link-colour {
+	color: #0E7C7B; 
+
+}
+
+.navbar-default .navbar-collapse {
+    border-color: #f2dede;
+    background-color: #B1EDE8
+}
+
+ body {
+    
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #FFFCF9;
+ }
+
+#hero {
+    font-size: 5em;
+	background-image: url(https://codetheweb.blog/assets/img/posts/full-image-hero/image.jpg);
+	height: 600px;
+	background-size: cover;
+	background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; 
+}
+	
+
+.navbar {
+position: relative;
+    min-height: 50px;
+    margin-bottom: 0px;
+    border: 0px solid transparent
+}
+
+.hero .btn {
+  
+    display: block;
+    width: 200px;
+    padding: 1em;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid black;
