@@ -1,0 +1,29 @@
+body {
+
+	margin: 0px
+	font-family: 'Roboto', sans-serif;
+}
+
+.link-colour {
+	color: #0E7C7B; 
+
+}
+
+.navbar-default .navbar-collapse {
+    border-color: #f2dede;
+    background-color: #B1EDE8
+}
+
+ body {
+    
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #f2f2f2;
+ }
+
+ .navbar {
+position: relative;
+    min-height: 50px;
+    margin-bottom: 50px;
+    border: 0px solid transparent
